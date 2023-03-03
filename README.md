@@ -1,4 +1,4 @@
-# Covid_DataAnalysis
+# Covid Data Analysis
 Analyzed the Covid data using SQL, Azure Data Studio and built a Tableau Dashboard
 
 Here's a screenshot of the dashboard in Tableau - 
